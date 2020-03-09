@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b514dc9-8799-4024-99fa-50e5c5e225cf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="8b1b865a-86f5-445b-9ff5-f55bb84172b9" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Training.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Friends/FriendsUnlock.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Universes/ScoreControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Buttons/MenuButtons.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BackgroundMove/PlanetLevitation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Buttons/Again.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BackgroundMove/RandomMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BackgroundMove/SpawnBackground.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Upgrades/ChangeSize.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BackgroundMove/Destroyer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Audio/Audio.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BackgroundMove/ChunksPlacer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BackgroundMove/Portals.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/LoseControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BackgroundMove/DestroyBack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Score.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BackgroundMove/SpawnLightPoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BackgroundMove/BlackHole.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BackgroundMove/MoveCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/SelectPrefab.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Jump.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Buttons/Resume.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Rotation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Upgrades/ChangeSpeed.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Buttons/Menu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BackgroundMove/MoveInterface.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Jump.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Planet levitation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BackButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlanetLevitation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CloudLevitation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SpawnBackground.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BackgroundMove/Comet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Universes/Select.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Friends/ScoreControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/SelectPrefab.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Friends/FriendsUnlock.cs" />
+        <option value="$PROJECT_DIR$/Assets/Audio/Audio.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Lose.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BackgroundMove/CentreOfHole.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Destroyer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuButtons.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Buttons/Resume.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Buttons/Menu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Buttons/Again.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BackgroundMove/DestroyBack.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Score.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Light.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerLight.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LightPoint.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BackgroundMove/Portals.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RandomMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Upgrades/ChangeLight.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Rotation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Upgrades/ChangeSize.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BackgroundMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BackgroundMove/Move.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Upgrades/ChangeSpeed.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BackgroundMove/SpawnBackground.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BackgroundMove/MoveInterface.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BackgroundMove/MoveBackground.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BackgroundMove/SpawnLightPoint.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LightControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/LoseControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Chunk.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BackgroundMove/BlackHole.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ChunksPlacer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Universes/ScoreControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Jump.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BackgroundMove/MoveCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Invisible.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Visible.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Buttons/MenuButtons.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Training.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BackgroundMove/ChunksPlacer.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UNT2iB3HAbQ7IptvB962FNGQzz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b514dc9-8799-4024-99fa-50e5c5e225cf" name="Default Changelist" comment="" />
+      <created>1575195848608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575195848608</updated>
+      <workItem from="1575195855520" duration="505000" />
+      <workItem from="1575196512170" duration="722000" />
+      <workItem from="1575309509142" duration="1345000" />
+      <workItem from="1575566465575" duration="2353000" />
+      <workItem from="1575739726527" duration="9632000" />
+      <workItem from="1575751118925" duration="3779000" />
+      <workItem from="1575799642323" duration="1963000" />
+      <workItem from="1575833212433" duration="83000" />
+      <workItem from="1575833443794" duration="4093000" />
+      <workItem from="1575837782995" duration="198000" />
+      <workItem from="1575907471746" duration="9099000" />
+      <workItem from="1575917154358" duration="2041000" />
+      <workItem from="1576178479914" duration="162000" />
+      <workItem from="1576178890086" duration="183000" />
+      <workItem from="1576758863674" duration="3000" />
+      <workItem from="1576759203364" duration="696000" />
+      <workItem from="1576760096378" duration="2184000" />
+      <workItem from="1576780359325" duration="1140000" />
+      <workItem from="1576787473108" duration="726000" />
+      <workItem from="1579434800332" duration="3572000" />
+      <workItem from="1579456976753" duration="5853000" />
+      <workItem from="1579467331750" duration="362000" />
+      <workItem from="1579515885896" duration="6196000" />
+      <workItem from="1579688463641" duration="3198000" />
+      <workItem from="1579780422031" duration="5927000" />
+      <workItem from="1580295515201" duration="569000" />
+      <workItem from="1580296107102" duration="298000" />
+      <workItem from="1580296444654" duration="5588000" />
+      <workItem from="1580302192735" duration="3666000" />
+      <workItem from="1580381047436" duration="11390000" />
+      <workItem from="1581158850801" duration="4091000" />
+      <workItem from="1581179204340" duration="6958000" />
+      <workItem from="1581253413613" duration="6664000" />
+      <workItem from="1581592065761" duration="2136000" />
+      <workItem from="1581699983519" duration="3216000" />
+      <workItem from="1581848472377" duration="1802000" />
+      <workItem from="1581969243163" duration="2584000" />
+      <workItem from="1582642017520" duration="11522000" />
+      <workItem from="1582727007078" duration="2794000" />
+      <workItem from="1582744739198" duration="1551000" />
+      <workItem from="1582983449216" duration="3888000" />
+      <workItem from="1582990043279" duration="580000" />
+      <workItem from="1583509568115" duration="3015000" />
+      <workItem from="1583759243340" duration="1421000" />
+      <workItem from="1583761017526" duration="1251000" />
+      <workItem from="1583762291522" duration="1191000" />
+      <workItem from="1583764120663" duration="954000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="71" y="0" key="#Notifications" timestamp="1580295647388">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="71" y="0" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1580295647388" />
+    <state x="523" y="234" width="258" height="213" key="Github.ShareDialog" timestamp="1583774859526">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="523" y="234" width="258" height="213" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1583774859526" />
+    <state x="233" y="72" key="Rider.ProjectTemplateDialog.Size" timestamp="1582659390314">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="72" key="Rider.ProjectTemplateDialog.Size/0.0.1280.680@0.0.1280.680" timestamp="1582659390314" />
+    <state x="34" y="0" key="SettingsEditor" timestamp="1583774731158">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="34" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1583774731158" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1583763793267">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1583763793267" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

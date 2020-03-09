@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\olya-\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\olya-\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Runner.806441801.00" t="ExcludeRecursive" />
+    <e p="C:\Users\olya-\Runner" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Audio" t="Include">
+          <e p="Audio.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="BackgroundMove" t="Include">
+            <e p="BlackHole.cs" t="Include" />
+            <e p="Chunk.cs" t="Include" />
+            <e p="ChunksPlacer.cs" t="Include" />
+            <e p="CloudLevitation.cs" t="Include" />
+            <e p="DestroyBack.cs" t="Include" />
+            <e p="Destroyer.cs" t="Include" />
+            <e p="MoveCamera.cs" t="Include" />
+            <e p="MoveInterface.cs" t="Include" />
+            <e p="PlanetLevitation.cs" t="Include" />
+            <e p="Portals.cs" t="Include" />
+            <e p="RandomMove.cs" t="Include" />
+            <e p="SpawnBackground.cs" t="Include" />
+            <e p="SpawnLightPoint.cs" t="Include" />
+          </e>
+          <e p="Buttons" t="Include">
+            <e p="Again.cs" t="Include" />
+            <e p="Menu.cs" t="Include" />
+            <e p="MenuButtons.cs" t="Include" />
+            <e p="Resume.cs" t="Include" />
+          </e>
+          <e p="Friends" t="Include">
+            <e p="FriendsUnlock.cs" t="Include" />
+          </e>
+          <e p="Player" t="Include">
+            <e p="Jump.cs" t="Include" />
+            <e p="LoseControl.cs" t="Include" />
+            <e p="Rotation.cs" t="Include" />
+            <e p="SelectPrefab.cs" t="Include" />
+          </e>
+          <e p="Score.cs" t="Include" />
+          <e p="Training.cs" t="Include" />
+          <e p="Universes" t="Include">
+            <e p="ScoreControl.cs" t="Include" />
+          </e>
+          <e p="Upgrades" t="Include">
+            <e p="ChangeSize.cs" t="Include" />
+            <e p="ChangeSpeed.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Runner.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
