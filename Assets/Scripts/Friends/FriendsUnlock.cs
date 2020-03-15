@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using UnityEditor.SceneManagement;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -36,7 +35,7 @@ public class FriendsUnlock : MonoBehaviour
 
     void Start()
     {
-       totalScore = PlayerPrefs.GetInt("Score") + PlayerPrefs.GetInt("Score2") + PlayerPrefs.GetInt("Score3");
+       totalScore = PlayerPrefs.GetInt("Score1") + PlayerPrefs.GetInt("Score2") + PlayerPrefs.GetInt("Score3");
        totalScoreText.text = "Всего преодолено " + totalScore + " световых лет";
         if (totalScore > cond1)
         {
